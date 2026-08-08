@@ -1,3 +1,4 @@
+![Demo GIF](demo.gif)
 # Automated Ball Tracking & Trajectory Estimator
 
 Ball tracking + trajectory visualization for sports footage, built and
